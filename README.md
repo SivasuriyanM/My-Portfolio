@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+# Project Title: Siva Suriyan Mohan Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This project is a personal portfolio website for Siva Suriyan Mohan. It is developed using React.js and hosted using Catalyst. The portfolio showcases the developer's skills, projects, and contact information.
 
-## Available Scripts
+## Live Demo
+Check out the live demo of the portfolio [here](https://sivasuriyanmohanportfolio-60030233640.development.catalystserverless.in/app/).
 
-In the project directory, you can run:
+## Features
+- **Home:** Introduction and overview of the developer.
+- **Education:** Detailed information about the developer's background and skills.
+- **Experience:** Detailed information about the developer's background and skills.
+- **Projects:** Showcase of various projects with descriptions and links.
+- **Contact:** Form for getting in touch with the developer.
 
-### `yarn start`
+## Technologies Used
+- **React.js:** A JavaScript library for building user interfaces.
+- **Catalyst:** A full-stack serverless platform to deploy and manage applications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To run this project locally, follow these steps:
 
-### `yarn test`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/SivasuriyanM/My-Portfolio.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd your-repo-name
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Deployment
 
-### `yarn build`
+To deploy this project using Catalyst:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Install Catalyst CLI:**
+   Follow the instructions from the [Catalyst documentation](https://catalyst.zoho.com/documentation).
+   
+2. **Login to Catalyst:**
+   ```bash
+   catalyst auth:login
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Initialize the project:**
+   ```bash
+   catalyst init
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **Deploy the project:**
+   ```bash
+   catalyst deploy
+   ```
 
-### `yarn eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+After deploying, you can access the live demo of the portfolio at the provided link. Navigate through different sections to explore the developer's information and projects.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. **Fork the repository:**
+   Click the "Fork" button at the top right of this repository.
 
-## Learn More
+2. **Create a feature branch:**
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. **Commit your changes:**
+   ```bash
+   git commit -m 'Add your feature'
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/your-feature-name
+   ```
 
-### Code Splitting
+5. **Create a new Pull Request:**
+   Navigate to your forked repository, and click the "New Pull Request" button.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
 
-### Making a Progressive Web App
+If you have any questions or suggestions, feel free to reach out.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Email:** msivasuriyanmohan692@gmail.com.com
+- **LinkedIn:** [Sivasuriyan Mohan](https://www.linkedin.com/in/siva-suriyan-m/)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy exploring the portfolio!
