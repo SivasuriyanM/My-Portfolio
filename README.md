@@ -89,6 +89,9 @@ If you'd like to contribute to this project, please fork the repository and use 
 5. **Create a new Pull Request:**
    Navigate to your forked repository, and click the "New Pull Request" button.
 
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
 
 
 ## Contact
